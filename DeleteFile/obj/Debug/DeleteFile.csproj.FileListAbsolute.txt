@@ -1,0 +1,12 @@
+D:\Git\DeleteFile\DeleteFile\bin\Debug\DeleteFile.exe.config
+D:\Git\DeleteFile\DeleteFile\bin\Debug\DeleteFile.exe
+D:\Git\DeleteFile\DeleteFile\bin\Debug\DeleteFile.pdb
+D:\Git\DeleteFile\DeleteFile\obj\Debug\DeleteFile.csproj.AssemblyReference.cache
+D:\Git\DeleteFile\DeleteFile\obj\Debug\DeleteFile.csproj.SuggestedBindingRedirects.cache
+D:\Git\DeleteFile\DeleteFile\obj\Debug\DeleteFile.csproj.CoreCompileInputs.cache
+D:\Git\DeleteFile\DeleteFile\obj\Debug\DeleteFile.exe
+D:\Git\DeleteFile\DeleteFile\obj\Debug\DeleteFile.pdb
+D:\Git\DeleteFile\DeleteFile\bin\Debug\DeleteFile.exe.manifest
+D:\Git\DeleteFile\DeleteFile\bin\Debug\DeleteFile.application
+D:\Git\DeleteFile\DeleteFile\obj\Debug\DeleteFile.exe.manifest
+D:\Git\DeleteFile\DeleteFile\obj\Debug\DeleteFile.application
