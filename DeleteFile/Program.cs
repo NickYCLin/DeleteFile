@@ -47,7 +47,7 @@ namespace DeleteFile
         {
             DirectoryInfo dir = new DirectoryInfo(storagepath);
             DirectoryInfo[] subdirs = dir.GetDirectories("*.*", SearchOption.AllDirectories);
-            foreach (DirectoryInfo subdir in subdirs)
+            foreach (DirectoryInfo subdir in subdirs.Reverse())
             {
                 FileSystemInfo[] subFiles = subdir.GetFileSystemInfos();
                 if (subFiles.Count() == 0)
